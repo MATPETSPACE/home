@@ -35,7 +35,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../téléchargement/Matéo_PETEL.png"),
+  imageLink: require("../Matéo_PETEL.jpg"),
   imageSize: 375,
   message:
     "My name is Matéo PETEL.BLABLABLABLA",
